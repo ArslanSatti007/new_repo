@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eab6878a-b187-4844-b8db-fc8f8f536ff1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/auto_engine/tests/database/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_engine/tests/ui/andriod/features/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_engine/tests/ui/andriod/steps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_engine/tests/ui/ios/features/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/auto_engine/tests/ui/ios/steps/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="eab6878a-b187-4844-b8db-fc8f8f536ff1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
