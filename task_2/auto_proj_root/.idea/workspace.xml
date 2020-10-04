@@ -2,23 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eab6878a-b187-4844-b8db-fc8f8f536ff1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/inputs/configurations/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs/configurations/ui/andriod/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs/configurations/ui/ios/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs/configurations/ui/web/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs/dependencies/drivers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs/test_data/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs/test_data/database/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs/test_data/ui/andriod/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs/test_data/ui/ios/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inputs/test_data/ui/web/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/exceptions/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/exceptions/database/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/exceptions/ui/andriod/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/exceptions/ui/ios/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/exceptions/ui/web/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/logs/ui/andriod/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/outputs/logs/ui/ios/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auto_engine/tests/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auto_engine/tests/ui/andriod/features/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auto_engine/tests/ui/andriod/steps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auto_engine/tests/ui/ios/features/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auto_engine/tests/ui/ios/steps/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,16 +28,16 @@
   <component name="ProjectId" id="1iKm85lbxqladOEFIq7Sitwv9Kr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/outputs/test_reports/ui/web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/auto_engine/tests/ui/web/steps" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\outputs\test_reports\ui\web" />
-      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\outputs\test_reports\ui\ios" />
-      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\outputs\test_reports\ui\andriod" />
-      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\outputs\test_reports\database" />
-      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\outputs\test_reports\api" />
+      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\auto_engine\tests\ui\web\steps" />
+      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\auto_engine\tests\ui\web\features" />
+      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\auto_engine\tests\ui\ios\steps" />
+      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\auto_engine\tests\ui\ios\features" />
+      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\auto_engine\tests\ui\andriod\steps" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_code\processor\tests\api\features" />
