@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eab6878a-b187-4844-b8db-fc8f8f536ff1" name="Default Changelist" comment="" />
+    <list default="true" id="eab6878a-b187-4844-b8db-fc8f8f536ff1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/inputs/configurations/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputs/configurations/ui/andriod/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputs/configurations/ui/ios/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputs/configurations/ui/web/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputs/dependencies/drivers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputs/test_data/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputs/test_data/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputs/test_data/ui/andriod/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputs/test_data/ui/ios/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputs/test_data/ui/web/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/exceptions/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/exceptions/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/exceptions/ui/andriod/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/exceptions/ui/ios/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/exceptions/ui/web/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/logs/ui/andriod/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/logs/ui/ios/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,25 +34,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1iKm85lbxqladOEFIq7Sitwv9Kr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/auto_engine/tests/ui/web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/outputs/test_reports/ui/web" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\outputs\test_reports\ui\web" />
+      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\outputs\test_reports\ui\ios" />
+      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\outputs\test_reports\ui\andriod" />
+      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\outputs\test_reports\database" />
+      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\outputs\test_reports\api" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_code\processor\tests\api\features" />
       <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_code\processor\tests\api\steps" />
       <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_code\features\tests\steps" />
       <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_code\features\tests" />
       <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_code\tests\features\steps" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\auto_engine\tests\ui\web" />
-      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_proj_root\auto_engine\tests\ui\ios" />
-      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_code\processor\logic" />
-      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_code\processor\logic\api" />
-      <recent name="C:\Users\imran_abbas\Desktop\test_relayr\relayer_assignment\task_2\auto_code\processor\tests\api\steps" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -132,6 +155,17 @@
       <updated>1601664494045</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
