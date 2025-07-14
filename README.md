@@ -1,4 +1,4 @@
-# Test Automation Sample Project
+# Test Automation Sample Project 2
 
 Tools:
       1) python
